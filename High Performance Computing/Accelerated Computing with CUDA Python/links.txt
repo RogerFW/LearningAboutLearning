@@ -1,0 +1,52 @@
+1. https://jakevdp.github.io/PythonDataScienceHandbook/02.03-computation-on-arrays-ufuncs.html
+2. https://numba.pydata.org/numba-doc/dev/cuda/examples.html
+3. https://numba.pydata.org/numba-doc/dev/reference/types.html#numba-types
+4. https://devblogs.nvidia.com/efficient-matrix-transpose-cuda-cc/
+5. https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html#compute-capabilities
+6. https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html#memory-hierarchy
+7. http://15418.courses.cs.cmu.edu/spring2013/article/15
+8. https://developer.download.nvidia.com/compute/cuda/1.1-Beta/x86_website/projects/histogram64/doc/histogram.pdf
+9. https://www.programcreek.com/python/example/93191/numba.jit
+10.https://github.com/numba/numba-examples/blob/master/examples/density_estimation/histogram/gpu.py
+11.https://stackoverflow.com/questions/2979551/how-to-make-a-cuda-histogram-kernel
+12.https://github.com/numba/numba-examples/blob/master/examples/density_estimation/histogram/impl.py
+13.https://stackoverflow.com/questions/33437183/arrays-in-cuda-kernels-using-python-with-numba-pro
+14.https://numba.pydata.org/numba-doc/0.13/CUDAJit.html
+15.https://docs.nvidia.com/cuda/cuda-c-programming-guide/
+16.https://www.nvidia.com/content/dam/en-zz/Solutions/gtc/thumbnails/DLI%20Workshop%20Datasheet%20-%20Fundamentals%20of%20Accelerated%20Computing%20with%20CUDA%20Python%20(Web).pdf
+17.https://nyu-cds.github.io/python-numba/05-cuda/
+18.https://github.com/ashokyannam?tab=repositories
+19.https://numba.pydata.org/numba-examples/examples/density_estimation/histogram/results.html
+20.https://devblogs.nvidia.com/gpu-pro-tip-fast-histograms-using-shared-atomics-maxwell/
+21.https://devblogs.nvidia.com/numba-python-cuda-acceleration/
+22.https://devblogs.nvidia.com/numba-python-cuda-acceleration/
+23.https://en.wikipedia.org/wiki/Multiple_buffering
+24.https://docs.oracle.com/javase/tutorial/extra/fullscreen/doublebuf.html
+25.https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html#compute-capabilities
+26.https://view.officeapps.live.com/op/view.aspx?src=https://developer.download.nvidia.com/training/courses/C-AC-02-V1/AC_CUDA_Python_2.pptx
+27.https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html#hardware-implementation
+28.https://numba.pydata.org/numba-doc/0.13/CUDAJit.html
+29.https://stackoverflow.com/questions/40378427/numpy-formal-definition-of-array-like-objects
+30.https://docs.scipy.org/doc/numpy/reference/c-api.generalized-ufuncs.html
+31.https://docs.scipy.org/doc/numpy/reference/c-api.generalized-ufuncs.html
+32.https://stackoverflow.com/questions/44997860/numba-python3-get-error-gpu-ufunc-requires-array-arguments-to-have-the-exact-ty
+33.https://numba.pydata.org/numba-doc/dev/cuda/memory.html
+34.https://docs.nvidia.com/cuda/cuda-c-best-practices-guide/index.html
+35.https://numba.pydata.org/numba-doc/dev/user/vectorize.html
+36.https://numba.pydata.org/numba-doc/dev/reference/types.html
+37.https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.arange.html
+38.https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.ndarray.reshape.html
+39.https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.vectorize.html
+40.https://docs.scipy.org/doc/numpy/user/quickstart.html
+41.https://docs.scipy.org/doc/numpy-1.15.1/reference/ufuncs.html
+42.https://numba.pydata.org/numba-doc/dev/reference/pysupported.html
+43.https://academo.org/demos/estimating-pi-monte-carlo/
+44.https://academo.org/demos/3d-vector-plotter/
+45.https://ipython.readthedocs.io/en/stable/interactive/magics.html#magic-timeit
+46.https://en.wikipedia.org/wiki/Python_syntax_and_semantics#Decorators
+47.https://en.wikipedia.org/wiki/CUDA
+48.https://github.com/tafseerahmed/Nvidia-DLI-s-C-FX-01
+49.https://www.ce.jhu.edu/dalrymple/classes/602/Class10.pdf
+50.https://developer.nvidia.com/cuda-gpus#compute
+
+
