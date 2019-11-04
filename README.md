@@ -1,2 +1,2 @@
-# LearningAboutLearning
-Covering Everything about Artificial Intelligence
+# Learning About Learning
+
